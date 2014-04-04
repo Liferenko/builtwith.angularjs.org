@@ -1,3 +1,28 @@
+/*Tookie - ваши технические руки*/
+{
+  "name": "Tookie app",  // will be displayed under the screenshot
+  "thumb": "2kie/banana.png", // path to the image (omit the projects/ prefix)
+  "desc": "Looks good", // One or two sentences
+  "url": "http://2kie.co", // url to your app
+  "info": "http://2kie.co/blog", // url to app announcement or background
+  "src": "https://github.com/me/myapp", // (optional) Url to your source repository
+  "submitter": "IgorMinar", // your github username
+  "submissionDate": "2012-05-24", // current date in ISO format
+  "tags": [
+    "Demo", "Production", "Toy" // choose your app seriousness level (for plunks or fiddles use "Toy")
+    "Game", "CRUD", "Entertainment", "Productivity", ... // choose your app type
+    "Animations", "Local Storage", "Audio Api", "AppCache", ... // features and technologies
+    "No jQuery", "jQuery" // do you use jQuery?
+    "Open Source", // tag open source projects
+    "Tests Included" // use if open source and tests are included
+    ... // others?
+  ]
+}
+/*Tookie - ваши технические руки*/
+
+
+
+
 {
   "featured": "YouTube on PS3",
   "projects": [
